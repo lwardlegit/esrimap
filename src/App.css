@@ -1,0 +1,51 @@
+.App {
+  background-color: #282c34;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.EsriMapContainer{
+  margin: 0 auto;
+  width: 80%;
+  height: 28em;
+  background-color: #61dafb;
+}
+.webmap {
+  height: 400px;
+}
+
+.leftMenu{
+  width: 100%;
+  background-color: #39c1e7;
+}
+.nav{
+  display: flex;
+  margin: 2em;
+  margin-top: 5em;
+}
+.toggleopts{
+  list-style-type: none;
+  display: flex;
+}
+.toggleopts li{
+  padding: 1em;
+  height: 1em;
+  width: 1em;
+}
+.toggleicon{
+  height: .5em;
+  width: .5em;
+}
+.toggleiconSelected{
+  height: 2em;
+  width: 2em;
+}
+.toggleicon:hover{
+   transform: scale(1.5); 
+}
+
+
+
