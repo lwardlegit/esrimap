@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esrimap/static/css/main.9d94ad1c.chunk.css",
+    "main.js": "/esrimap/static/js/main.9b7762eb.chunk.js",
+    "main.js.map": "/esrimap/static/js/main.9b7762eb.chunk.js.map",
+    "runtime-main.js": "/esrimap/static/js/runtime-main.63308122.js",
+    "runtime-main.js.map": "/esrimap/static/js/runtime-main.63308122.js.map",
+    "static/js/2.12f782aa.chunk.js": "/esrimap/static/js/2.12f782aa.chunk.js",
+    "static/js/2.12f782aa.chunk.js.map": "/esrimap/static/js/2.12f782aa.chunk.js.map",
+    "index.html": "/esrimap/index.html",
+    "precache-manifest.c36ad8a2357c264efd9412584537028d.js": "/esrimap/precache-manifest.c36ad8a2357c264efd9412584537028d.js",
+    "service-worker.js": "/esrimap/service-worker.js",
+    "static/css/main.9d94ad1c.chunk.css.map": "/esrimap/static/css/main.9d94ad1c.chunk.css.map",
+    "static/js/2.12f782aa.chunk.js.LICENSE.txt": "/esrimap/static/js/2.12f782aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63308122.js",
+    "static/js/2.12f782aa.chunk.js",
+    "static/css/main.9d94ad1c.chunk.css",
+    "static/js/main.9b7762eb.chunk.js"
+  ]
+}
